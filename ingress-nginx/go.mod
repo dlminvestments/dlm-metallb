@@ -4,7 +4,7 @@ module k8s.io/ingress-nginx
 go 1.15
 
 require (
-	github.com/armon/go-proxyproto v0.0.0-20200108142055-f0b8253b1507
+	github.com/armon/go-proxyproto 7e956b284f0a
 	github.com/eapache/channels v1.1.0
 	github.com/fsnotify/fsnotify v1.4.9
 	github.com/fullsailor/pkcs7 v0.0.0-20190404230743-d7302db945fa // indirect
