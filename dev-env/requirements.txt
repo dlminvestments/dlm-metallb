@@ -1,4 +1,4 @@
 # non-version specific
 invoke
 semver
-PyYAML
+PyYAML==5.4.1
