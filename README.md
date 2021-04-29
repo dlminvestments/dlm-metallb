@@ -5,7 +5,6 @@ metal [Kubernetes](https://kubernetes.io) clusters, using standard
 routing protocols.
 
 [![made-with-Go](https://img.shields.io/badge/Made%20with-Go-1f425f.svg)](http://golang.org)
-[![GitHub go.mod Go version of a Go module](https://img.shields.io/github/go-mod/go-version/gomods/athens.svg)](https://github.com/gomods/athens)
 [![Project maturity: beta](https://img.shields.io/badge/maturity-beta-orange.svg)](https://metallb.universe.tf/concepts/maturity/) [![license](https://img.shields.io/github/license/metallb/metallb.svg?maxAge=2592000)](https://github.com/metallb/metallb/blob/main/LICENSE) [![CircleCI](https://img.shields.io/circleci/project/github/metallb/metallb.svg)](https://circleci.com/gh/metallb/metallb) [![Containers](https://img.shields.io/badge/containers-ready-green.svg)](https://hub.docker.com/u/metallb) [![Go report card](https://goreportcard.com/badge/github.com/metallb/metallb)](https://goreportcard.com/report/github.com/metallb/metallb)
 
 URL format:
@@ -36,3 +35,5 @@ figure out a remediation timeline.
 
 We aim for initial response to vulnerability reports within 48
 hours. The timeline for fixes depends on the complexity of the issue.
+
+<img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/>
