@@ -14,6 +14,12 @@ https://github.com/{github_id}/{repository}/workflows/{workflow_name}/badge.svg
 Check out [MetalLB's website](https://metallb.universe.tf) for more
 information.
 
+[MetalLB](https://metallb.universe.tf)
+
+[NGINX](https://www.nginx.com)
+
+[Kubernetes](https://kubernetes.io)
+
 # Contributing
 
 We welcome contributions in all forms. Please check out
@@ -40,9 +46,3 @@ hours. The timeline for fixes depends on the complexity of the issue.
 
 <img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/>
 <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
-
-[MetalLB](https://metallb.universe.tf)
-
-[NGINX](https://www.nginx.com)
-
-[Kubernetes](https://kubernetes.io)
