@@ -19,6 +19,7 @@ require (
 	github.com/mdlayher/raw v0.0.0-20191009151244-50f2db8cc065 // indirect
 	github.com/mikioh/ipaddr v0.0.0-20190404000644-d465c8ab6721
 	github.com/osrg/gobgp v2.0.0+incompatible
+	github.com/prometheus/client_golang v1.10.0
 	github.com/prometheus/client_golang v1.3.0
 	github.com/osrg/gobgp v2.26.0+incompatible
 	github.com/prometheus/client_golang v1.0.0
