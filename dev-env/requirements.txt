@@ -1,4 +1,4 @@
 # non-version specific
-invoke
+invoke==1.5.0
 semver
 PyYAML
