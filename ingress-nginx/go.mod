@@ -43,6 +43,6 @@ require (
 	k8s.io/code-generator v0.20.2
 	k8s.io/component-base v0.20.2
 	k8s.io/klog/v2 v2.4.0
-	k8s.io/utils v0.0.0-20201110183641-67b214c5f920
+	k8s.io/utils 2afb4311ab10
 	pault.ag/go/sniff v0.0.0-20200207005214-cf7e4d167732
 	sigs.k8s.io/controller-runtime v0.8.0
