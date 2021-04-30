@@ -30,6 +30,9 @@ require (
 	golang.org/x/sys d19ff857e887
 	gopkg.in/yaml.v2 v2.4.0
 	k8s.io/api v0.21.0
+	k8s.io/apimachinery v0.21.0
+	k8s.io/client-go v0.21.0
+	k8s.io/klog v0.3.1
 	k8s.io/api v0.20.2
 	k8s.io/apimachinery v0.21.0
 	k8s.io/client-go v0.20.2
