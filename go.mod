@@ -35,7 +35,7 @@ require (
 	k8s.io/klog v0.3.1
 	k8s.io/api v0.20.2
 	k8s.io/apimachinery v0.21.0
-	k8s.io/client-go v0.20.2
+	k8s.io/client-go v0.21.0
 	k8s.io/klog v0.4.0
 	sigs.k8s.io/kind v0.10.0 // indirect
 )
