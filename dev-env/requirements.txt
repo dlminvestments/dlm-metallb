@@ -9,7 +9,7 @@ protobuf==3.15.0
 matplotlib==3.4.1
 ptyprocess==0.3.0
 scikit-learn==0.22.1
-numpy==1.18.2
+numpy==1.20.2
 tensorflow==2.4.0
 tensorflow-cpu==2.4.0
 tensorflow-gpu==2.4.0
