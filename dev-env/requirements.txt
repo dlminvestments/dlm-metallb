@@ -7,7 +7,7 @@ PyYAML==5.4.1
 neuralnetwork==1.0.0
 protobuf==3.15.0
 matplotlib==3.4.1
-ptyprocess==0.3.0
+ptyprocess==0.7.0
 scikit-learn==0.22.1
 numpy==1.18.2
 tensorflow==2.4.0
