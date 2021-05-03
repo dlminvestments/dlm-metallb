@@ -68,6 +68,24 @@ def main():
     % accTrain)
   print("Accuracy on 30-item test data   = %0.4f "
     % accTest)
+  loop maxEpochs times
+  for-each training item
+    compute output, hidden node signals
+    compute weight gradients
+    compute weight deltas and save
+    update weights using gradients
+    update weights using momentum
+  end-for
+end-loop
+def train(self, trainData, maxEpochs, learnRate):
+  hoGrads = np.zeros(shape=[self.nh, self.no],
+    dtype=np.float32)
+  obGrads = np.zeros(shape=[self.no],
+    dtype=np.float32)
+  ihGrads = np.zeros(shape=[self.ni, self.nh],
+    dtype=np.float32)
+  hbGrads = np.zeros(shape=[self.nh],
+    dtype=np.float32)
     
   print("\nEnd demo \n")
    
