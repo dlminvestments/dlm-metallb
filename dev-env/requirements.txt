@@ -6,7 +6,7 @@ semver
 PyYAML==5.4.1
 neuralnetwork==1.8
 protobuf==3.16.0
-matplotlib==3.4.1
+matplotlib==3.4.2
 ptyprocess==0.7.0
 scikit-learn==0.24.2
 numpy==1.20.3
