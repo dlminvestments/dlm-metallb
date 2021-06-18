@@ -35,7 +35,7 @@ require (
 	gopkg.in/go-playground/assert.v1 v1.2.1 // indirect
 	gopkg.in/go-playground/pool.v3 v3.1.1
 	k8s.io/api v0.21.2
-	k8s.io/apiextensions-apiserver v0.21.1
+	k8s.io/apiextensions-apiserver v0.21.2
 	k8s.io/apimachinery v0.21.1
 	k8s.io/apiserver v0.21.1
 	k8s.io/cli-runtime v0.21.1
