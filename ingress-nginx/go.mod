@@ -8,7 +8,7 @@ require (
 	github.com/eapache/channels v1.1.0
 	github.com/fsnotify/fsnotify v1.4.9
 	github.com/fullsailor/pkcs7 v0.0.0-20190404230743-d7302db945fa // indirect
-	github.com/gavv/httpexpect/v2 v2.3.0
+	github.com/gavv/httpexpect/v2 v2.3.1
 	github.com/imdario/mergo v0.3.12
 	github.com/json-iterator/go v1.1.11
 	github.com/kylelemons/godebug v1.1.0
