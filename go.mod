@@ -18,10 +18,10 @@ require (
 	github.com/mdlayher/ndp 5d20bbb4b9ae
 	github.com/mdlayher/raw v0.0.0-20191009151244-50f2db8cc065 // indirect
 	github.com/mikioh/ipaddr v0.0.0-20190404000644-d465c8ab6721
-	github.com/osrg/gobgp v2.28.0+incompatible
+	github.com/osrg/gobgp v2.29.0+incompatible
 	github.com/prometheus/client_golang v1.11.0
 	github.com/prometheus/client_golang v1.11.0
-	github.com/osrg/gobgp v2.28.0+incompatible
+	github.com/osrg/gobgp v2.29.0+incompatible
 	github.com/prometheus/client_golang v1.11.0
 	github.com/satori/go.uuid v1.2.0 // indirect
 	github.com/spf13/viper v1.7.0 // indirect
