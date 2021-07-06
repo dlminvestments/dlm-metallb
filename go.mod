@@ -15,7 +15,7 @@ require (
 	github.com/hashicorp/memberlist v0.2.4
 	github.com/mdlayher/arp v0.0.0-20191213142603-f72070a231fc
 	github.com/mdlayher/ethernet v0.0.0-20190606142754-0394541c37b7
-	github.com/mdlayher/ndp v0.0.0-20200602162440-17ab9e3e5567
+	github.com/mdlayher/ndp 5d20bbb4b9ae
 	github.com/mdlayher/raw v0.0.0-20191009151244-50f2db8cc065 // indirect
 	github.com/mikioh/ipaddr v0.0.0-20190404000644-d465c8ab6721
 	github.com/osrg/gobgp v2.28.0+incompatible
