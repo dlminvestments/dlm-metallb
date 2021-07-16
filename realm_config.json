@@ -1,0 +1,8 @@
+{
+    "app_id": "vm-1-afmrk",
+    "config_version": 20210101,
+    "name": "VM-1",
+    "location": "US-VA",
+    "deployment_model": "GLOBAL",
+    "environment": "production"
+}

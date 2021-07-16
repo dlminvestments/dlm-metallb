@@ -1,0 +1,18 @@
+{
+    "collection": "listingsAndReviews",
+    "database": "sample_airbnb",
+    "roles": [
+        {
+            "name": "default",
+            "apply_when": {},
+            "fields": {
+                "mongo": {}
+            },
+            "write": true,
+            "insert": true,
+            "delete": true,
+            "search": true,
+            "additional_fields": {}
+        }
+    ]
+}
