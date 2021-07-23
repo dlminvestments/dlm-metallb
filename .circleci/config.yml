@@ -37,7 +37,7 @@ jobs:
   helm-conftest:
     working_directory: /repo
     docker:
-      - image: alpine/helm:3.6.2
+      - image: alpine/helm:3.6.3
     steps:
       - run: apk add --update --no-cache git curl bash
       - run: helm plugin install --debug https://github.com/instrumenta/helm-conftest
