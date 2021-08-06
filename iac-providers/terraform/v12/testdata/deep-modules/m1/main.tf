@@ -21,4 +21,7 @@ module "m3" {
 resource "aws_s3_bucket" "bucket" {
   bucket = module.m3.fullbucketname
   policy = module.m2.fullbucketpolicy
+   versioning {
+     enabled = true
+   }
 }
