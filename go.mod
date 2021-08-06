@@ -30,11 +30,11 @@ require (
 	golang.org/x/net v0.0.0-20210226172049-e18ecbb05110 // indirect
 	golang.org/x/sys d19ff857e887
 	gopkg.in/yaml.v2 v2.4.0
-	k8s.io/api v0.21.2
+	k8s.io/api v0.22.0
 	k8s.io/apimachinery v0.21.2
 	k8s.io/client-go/v12 v12.0.0
 	k8s.io/klog/v2 v2.10.0
-	k8s.io/api v0.21.2
+	k8s.io/api v0.22.0
 	k8s.io/apimachinery v0.21.2
 	k8s.io/client-go/v12 v12.0.0
 	k8s.io/klog/v2 v2.10.0
