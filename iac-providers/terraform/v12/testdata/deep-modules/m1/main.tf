@@ -21,7 +21,16 @@ module "m3" {
 resource "aws_s3_bucket" "bucket" {
   bucket = module.m3.fullbucketname
   policy = module.m2.fullbucketpolicy
+bc-fix-0cf6e5b4-cc0c-4a7a-b0b5-d7cf44dc3fc0
    versioning {
      enabled = true
+=======
+   server_side_encryption_configuration {
+     rule {
+       apply_server_side_encryption_by_default {
+         sse_algorithm = "AES256"
+       }
+     }
+Main-renovate/k8s.io-klog-v2-2.x
    }
 }
