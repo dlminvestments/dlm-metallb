@@ -37,12 +37,12 @@ require (
 	k8s.io/api v0.22.1
 renovate/k8s.io-apimachinery-0.x
 	k8s.io/apiextensions-apiserver v0.22.1
-	k8s.io/apimachinery v0.22.0
+	k8s.io/apimachinery v0.22.1
 	k8s.io/apiserver v0.22.1
 	k8s.io/cli-runtime v0.21.2
 
 	k8s.io/apiextensions-apiserver v0.22.1
-	k8s.io/apimachinery v0.21.2
+	k8s.io/apimachinery v0.22.1
 	k8s.io/apiserver v0.22.1
 	k8s.io/cli-runtime v0.22.0
  Main-renovate/k8s.io-klog-v2-2.x
