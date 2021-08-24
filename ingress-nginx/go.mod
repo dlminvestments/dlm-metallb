@@ -6,7 +6,7 @@ go 1.15
 require (
 	github.com/armon/go-proxyproto 7e956b284f0a
 	github.com/eapache/channels v1.1.0
-	github.com/fsnotify/fsnotify v1.4.9
+	github.com/fsnotify/fsnotify v1.5.1
 	github.com/fullsailor/pkcs7 v0.0.0-20190404230743-d7302db945fa // indirect
 	github.com/gavv/httpexpect/v2 v2.3.1
 	github.com/imdario/mergo v0.3.12
