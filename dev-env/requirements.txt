@@ -11,7 +11,7 @@ ptyprocess==0.7.0
 scikit-learn==0.24.2
 numpy==1.21.2
 renovate/tensorflow-cpu-2.x
-tensorflow==2.5.0
+tensorflow==2.5.1
 tensorflow-cpu==2.6.0
 tensorflow-gpu==2.5.0
 =======
