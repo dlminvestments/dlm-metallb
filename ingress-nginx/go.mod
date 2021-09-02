@@ -49,7 +49,7 @@ renovate/k8s.io-apimachinery-0.x
 	k8s.io/client-go/v12 v12.0.0
 	k8s.io/code-generator v0.22.1
 	k8s.io/component-base v0.22.1
-	k8s.io/klog/v2 v2.10.0
+	k8s.io/klog/v2 v2.20.0
 	k8s.io/utils 2afb4311ab10
 	pault.ag/go/sniff v0.0.0-20200207005214-cf7e4d167732
 	sigs.k8s.io/controller-runtime v0.9.6
