@@ -8,7 +8,7 @@ require (
 	github.com/eapache/channels v1.1.0 // indirect
 	github.com/eapache/queue v1.1.0 // indirect
 	github.com/go-kit/kit v0.11.0
-	github.com/golang/protobuf v1.4.3
+	github.com/golang/protobuf v1.5.2
 	github.com/go-kit/kit v0.11.0
 	github.com/golang/protobuf v1.5.2
 	github.com/google/go-cmp v0.5.6
