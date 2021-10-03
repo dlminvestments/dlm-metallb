@@ -7,9 +7,9 @@ require (
 	github.com/dgryski/go-farm v0.0.0-20190423205320-6a90982ecee2 // indirect
 	github.com/eapache/channels v1.1.0 // indirect
 	github.com/eapache/queue v1.1.0 // indirect
-	github.com/go-kit/kit v0.11.0
+	github.com/go-kit/kit v0.12.0
 	github.com/golang/protobuf v1.5.2
-	github.com/go-kit/kit v0.11.0
+	github.com/go-kit/kit v0.12.0
 	github.com/golang/protobuf v1.5.2
 	github.com/google/go-cmp v0.5.6
 	github.com/hashicorp/memberlist v0.2.4
