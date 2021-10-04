@@ -27,7 +27,7 @@ require (
 	github.com/spf13/cobra v1.2.1
 	github.com/spf13/pflag v1.0.5
 	github.com/stretchr/testify v1.7.0
-	github.com/tallclair/mdtoc v1.0.1
+	github.com/tallclair/mdtoc v1.1.0
 	github.com/zakjan/cert-chain-resolver 87e10242a981
 	golang.org/x/crypto 83a5a9bb288b
 	golang.org/x/net 89ef3d95e781
