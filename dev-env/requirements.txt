@@ -13,9 +13,9 @@ numpy==1.21.3
 renovate/tensorflow-cpu-2.x
 tensorflow==2.6.0
 tensorflow-cpu==2.6.0
-tensorflow-gpu==2.6.0
+tensorflow-gpu==2.6.1
 =======
 tensorflow==2.6.0
 tensorflow-cpu==2.6.0
-tensorflow-gpu==2.6.0
+tensorflow-gpu==2.6.1
 Main-renovate/k8s.io-klog-v2-2.x
