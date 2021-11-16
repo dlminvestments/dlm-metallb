@@ -11,11 +11,11 @@ ptyprocess==0.7.0
 scikit-learn==1.0.1
 numpy==1.21.4
 renovate/tensorflow-cpu-2.x
-tensorflow==2.6.0
+tensorflow==2.6.1
 tensorflow-cpu==2.6.0
 tensorflow-gpu==2.6.0
 =======
-tensorflow==2.6.0
+tensorflow==2.6.1
 tensorflow-cpu==2.6.0
 tensorflow-gpu==2.6.0
 Main-renovate/k8s.io-klog-v2-2.x
