@@ -37,18 +37,23 @@ require (
 	k8s.io/api v0.22.4
 renovate/k8s.io-apimachinery-0.x
 	k8s.io/apiextensions-apiserver v0.22.4
-	k8s.io/apimachinery v0.22.3
+	k8s.io/apimachinery v0.22.4
 	k8s.io/apiserver v0.22.3
-	k8s.io/cli-runtime v0.22.3
+	k8s.io/cli-runtime v0.22.4
 
 	k8s.io/apiextensions-apiserver v0.22.4
-	k8s.io/apimachinery v0.22.3
+	k8s.io/apimachinery v0.22.4
 	k8s.io/apiserver v0.22.3
-	k8s.io/cli-runtime v0.22.3
+	k8s.io/cli-runtime v0.22.4
  Main-renovate/k8s.io-klog-v2-2.x
 	k8s.io/client-go/v12 v12.0.0
+renovate/k8s.io-component-base-0.x
 	k8s.io/code-generator v0.22.3
 	k8s.io/component-base v0.22.4
+=======
+	k8s.io/code-generator v0.22.4
+	k8s.io/component-base v0.22.3
+Main-renovate/k8s.io-klog-v2-2.x
 	k8s.io/klog/v2 v2.30.0
 	k8s.io/utils 2afb4311ab10
 	pault.ag/go/sniff v0.0.0-20200207005214-cf7e4d167732
