@@ -59,10 +59,10 @@ Main-renovate/k8s.io-klog-v2-2.x
 	k8s.io/client-go/v12 v12.0.0
 renovate/k8s.io-component-base-0.x
 	k8s.io/code-generator v0.22.3
-	k8s.io/component-base v0.22.4
+	k8s.io/component-base v0.23.0
 =======
 	k8s.io/code-generator v0.22.4
-	k8s.io/component-base v0.22.3
+	k8s.io/component-base v0.23.0
 Main-renovate/k8s.io-klog-v2-2.x
 	k8s.io/klog/v2 v2.30.0
 	k8s.io/utils 2afb4311ab10
