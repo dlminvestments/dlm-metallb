@@ -24,14 +24,14 @@ require (
 	github.com/prometheus/client_golang v1.11.0
 	github.com/prometheus/client_model v0.2.0
 	github.com/prometheus/common v0.32.1
-	github.com/spf13/cobra v1.2.1
+	github.com/spf13/cobra v1.3.0
 	github.com/spf13/pflag v1.0.5
 	github.com/stretchr/testify v1.7.0
 	github.com/tallclair/mdtoc v1.1.0
 	github.com/zakjan/cert-chain-resolver 87e10242a981
 	golang.org/x/crypto 83a5a9bb288b
 	golang.org/x/net 89ef3d95e781
-	google.golang.org/grpc v1.42.0
+	google.golang.org/grpc v1.43.0
 	gopkg.in/go-playground/assert.v1 v1.2.1 // indirect
 	gopkg.in/go-playground/pool.v3 v3.1.1
 	k8s.io/api v0.23.1
@@ -64,7 +64,7 @@ renovate/k8s.io-component-base-0.x
 	k8s.io/code-generator v0.23.1
 	k8s.io/component-base v0.23.1
 Main-renovate/k8s.io-klog-v2-2.x
-	k8s.io/klog/v2 v2.30.0
+	k8s.io/klog/v2 v2.40.1
 	k8s.io/utils 2afb4311ab10
 	pault.ag/go/sniff v0.0.0-20200207005214-cf7e4d167732
-	sigs.k8s.io/controller-runtime v0.10.3
+	sigs.k8s.io/controller-runtime v0.11.0
