@@ -11,18 +11,23 @@ require (
 	github.com/golang/protobuf v1.5.2
 	github.com/go-kit/kit v0.12.0
 	github.com/golang/protobuf v1.5.2
+renovate/github.com-google-go-cmp-0.x
 	github.com/google/go-cmp v0.5.7
 	github.com/hashicorp/memberlist v0.3.0
+=======
+	github.com/google/go-cmp v0.5.6
+	github.com/hashicorp/memberlist v0.3.1
+Main-renovate/k8s.io-klog-v2-2.x
 	github.com/mdlayher/arp v0.0.0-20191213142603-f72070a231fc
 	github.com/mdlayher/ethernet v0.0.0-20190606142754-0394541c37b7
 	github.com/mdlayher/ndp 5d20bbb4b9ae
 	github.com/mdlayher/raw v0.0.0-20191009151244-50f2db8cc065 // indirect
 	github.com/mikioh/ipaddr v0.0.0-20190404000644-d465c8ab6721
 	github.com/osrg/gobgp v2.34.0+incompatible
-	github.com/prometheus/client_golang v1.11.0
-	github.com/prometheus/client_golang v1.11.0
+	github.com/prometheus/client_golang v1.12.0
+	github.com/prometheus/client_golang v1.12.0
 	github.com/osrg/gobgp v2.34.0+incompatible
-	github.com/prometheus/client_golang v1.11.0
+	github.com/prometheus/client_golang v1.12.0
 	github.com/satori/go.uuid v1.2.0 // indirect
 	github.com/spf13/viper v1.7.0 // indirect
 	github.com/vishvananda/netlink v1.0.0 // indirect
