@@ -15,7 +15,7 @@ renovate/github.com-google-go-cmp-0.x
 	github.com/google/go-cmp v0.5.7
 	github.com/hashicorp/memberlist v0.3.0
 =======
-	github.com/google/go-cmp v0.5.6
+	github.com/google/go-cmp v0.5.7
 	github.com/hashicorp/memberlist v0.3.1
 Main-renovate/k8s.io-klog-v2-2.x
 	github.com/mdlayher/arp v0.0.0-20191213142603-f72070a231fc
