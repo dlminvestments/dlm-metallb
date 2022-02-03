@@ -15,11 +15,11 @@ renovate/tensorflow-2.x
 tensorflow==2.7.0
 =======
 renovate/pypi-tensorflow-cpu-vulnerability
-tensorflow==2.6.0
+tensorflow==2.6.1
 tensorflow-cpu==2.7.0
 tensorflow-gpu==2.6.0
 =======
-tensorflow==2.6.0
+tensorflow==2.6.1
 tensorflow-cpu==2.7.0
 =======
 tensorflow==2.6.1
