@@ -19,7 +19,7 @@ renovate/github.com-google-go-cmp-0.x
 	github.com/hashicorp/memberlist v0.3.1
 Main-renovate/k8s.io-klog-v2-2.x
 	github.com/mdlayher/arp c37aaafac7f9
-	github.com/mdlayher/ethernet v0.0.0-20190606142754-0394541c37b7
+	github.com/mdlayher/ethernet 529eae5b6118
 	github.com/mdlayher/ndp 5d20bbb4b9ae
 	github.com/mdlayher/raw v0.0.0-20191009151244-50f2db8cc065 // indirect
 	github.com/mikioh/ipaddr v0.0.0-20190404000644-d465c8ab6721
