@@ -3,7 +3,11 @@ terraform {
 }
 
 provider "aws" {
+renovate/aws-4.x
+  version = "4.3.0"
+=======
   version = "3.74.3"
+Main-renovate/k8s.io-klog-v2-2.x
   region  = "us-east-1"
 }
 
