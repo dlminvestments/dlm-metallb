@@ -9,7 +9,7 @@ protobuf==3.19.4
 matplotlib==3.5.1
 ptyprocess==0.7.0
 scikit-learn==1.0.2
-numpy==1.22.2
+numpy==1.22.3
 renovate/tensorflow-cpu-2.x
 renovate/tensorflow-2.x
 tensorflow==2.8.0
