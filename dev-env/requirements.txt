@@ -16,11 +16,11 @@ tensorflow==2.8.0
 =======
 renovate/pypi-tensorflow-cpu-vulnerability
 tensorflow==2.8.0
-tensorflow-cpu==2.7.1
+tensorflow-cpu==2.8.0
 tensorflow-gpu==2.8.0
 =======
 tensorflow==2.8.0
-tensorflow-cpu==2.7.1
+tensorflow-cpu==2.8.0
 =======
 tensorflow==2.8.0
 Main-renovate/k8s.io-klog-v2-2.x
