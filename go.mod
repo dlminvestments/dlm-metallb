@@ -36,10 +36,11 @@ Main-renovate/k8s.io-klog-v2-2.x
 	golang.org/x/sys d19ff857e887
 	gopkg.in/yaml.v2 v2.4.0
 renovate/k8s.io-apimachinery-0.x
-	k8s.io/api v0.23.4
-	k8s.io/apimachinery v0.23.4
+	k8s.io/api v0.23.5
+	k8s.io/apimachinery v0.23.5
 	k8s.io/client-go/v12 v12.0.0
 renovate/kubernetes-go
+renovate/k8s.io-klog-v2-2.x
 	k8s.io/klog/v2 v2.60.1
 	k8s.io/api v0.23.4
 	k8s.io/apimachinery v0.23.4
@@ -47,17 +48,34 @@ renovate/kubernetes-go
 	k8s.io/klog/v2 v2.60.1
 	k8s.io/api v0.23.4
 	k8s.io/apimachinery v0.23.4
+=======
+	k8s.io/klog/v2 v2.40.1
+	k8s.io/api v0.23.5
+	k8s.io/apimachinery v0.23.5
+=======
+	k8s.io/klog/v2 v2.40.1
+	k8s.io/api v0.23.5
+	k8s.io/apimachinery v0.23.5
+Main-renovate/k8s.io-klog-v2-2.x
 Main-renovate/k8s.io-klog-v2-2.x
 
-	k8s.io/api v0.23.4
-	k8s.io/apimachinery v0.23.4
+	k8s.io/api v0.23.5
+	k8s.io/apimachinery v0.23.5
 	k8s.io/client-go/v12 v12.0.0
 renovate/kubernetes-go
+renovate/k8s.io-klog-v2-2.x
 	k8s.io/klog/v2 v2.60.1
 	k8s.io/api v0.23.4
 =======
 	k8s.io/klog/v2 v2.60.1
 	k8s.io/api v0.23.4
+=======
+	k8s.io/klog/v2 v2.40.1
+	k8s.io/api v0.23.5
+=======
+	k8s.io/klog/v2 v2.40.1
+	k8s.io/api v0.23.5
+Main-renovate/k8s.io-klog-v2-2.x
 Main-renovate/k8s.io-klog-v2-2.x
  Main-renovate/k8s.io-klog-v2-2.x
 	k8s.io/client-go/v12 v12.0.0
