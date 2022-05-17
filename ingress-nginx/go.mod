@@ -67,4 +67,4 @@ Main-renovate/k8s.io-klog-v2-2.x
 	k8s.io/klog/v2 v2.60.1
 	k8s.io/utils 2afb4311ab10
 	pault.ag/go/sniff v0.0.0-20200207005214-cf7e4d167732
-	sigs.k8s.io/controller-runtime v0.11.2
+	sigs.k8s.io/controller-runtime v0.12.1
