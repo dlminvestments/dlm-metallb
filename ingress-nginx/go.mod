@@ -21,7 +21,7 @@ require (
 	github.com/onsi/ginkgo v1.16.5
 	github.com/opencontainers/runc v1.1.1
 	github.com/pkg/errors v0.9.1
-	github.com/prometheus/client_golang v1.12.1
+	github.com/prometheus/client_golang v1.12.2
 	github.com/prometheus/client_model v0.2.0
 	github.com/prometheus/common v0.34.0
 	github.com/spf13/cobra v1.4.0
@@ -31,38 +31,38 @@ require (
 	github.com/zakjan/cert-chain-resolver 87e10242a981
 	golang.org/x/crypto 83a5a9bb288b
 	golang.org/x/net 89ef3d95e781
-	google.golang.org/grpc v1.46.0
+	google.golang.org/grpc v1.46.2
 	gopkg.in/go-playground/assert.v1 v1.2.1 // indirect
 	gopkg.in/go-playground/pool.v3 v3.1.1
-	k8s.io/api v0.23.6
+	k8s.io/api v0.24.0
 renovate/k8s.io-apimachinery-0.x
-	k8s.io/apiextensions-apiserver v0.23.6
-	k8s.io/apimachinery v0.23.6
+	k8s.io/apiextensions-apiserver v0.24.0
+	k8s.io/apimachinery v0.24.0
 renovate/k8s.io-apiserver-0.x
-	k8s.io/apiserver v0.23.6
-	k8s.io/cli-runtime v0.23.6
+	k8s.io/apiserver v0.24.0
+	k8s.io/cli-runtime v0.24.0
 
-	k8s.io/apiextensions-apiserver v0.23.6
-	k8s.io/apimachinery v0.23.6
-	k8s.io/apiserver v0.23.6
-	k8s.io/cli-runtime v0.23.6
+	k8s.io/apiextensions-apiserver v0.24.0
+	k8s.io/apimachinery v0.24.0
+	k8s.io/apiserver v0.24.0
+	k8s.io/cli-runtime v0.24.0
 =======
-	k8s.io/apiserver v0.23.6
-	k8s.io/cli-runtime v0.23.6
+	k8s.io/apiserver v0.24.0
+	k8s.io/cli-runtime v0.24.0
 
-	k8s.io/apiextensions-apiserver v0.23.6
-	k8s.io/apimachinery v0.23.6
-	k8s.io/apiserver v0.23.6
-	k8s.io/cli-runtime v0.23.6
+	k8s.io/apiextensions-apiserver v0.24.0
+	k8s.io/apimachinery v0.24.0
+	k8s.io/apiserver v0.24.0
+	k8s.io/cli-runtime v0.24.0
 Main-renovate/k8s.io-klog-v2-2.x
  Main-renovate/k8s.io-klog-v2-2.x
 	k8s.io/client-go/v12 v12.0.0
 renovate/k8s.io-component-base-0.x
-	k8s.io/code-generator v0.23.6
-	k8s.io/component-base v0.23.6
+	k8s.io/code-generator v0.24.0
+	k8s.io/component-base v0.24.0
 =======
-	k8s.io/code-generator v0.23.6
-	k8s.io/component-base v0.23.6
+	k8s.io/code-generator v0.24.0
+	k8s.io/component-base v0.24.0
 Main-renovate/k8s.io-klog-v2-2.x
 	k8s.io/klog/v2 v2.60.1
 	k8s.io/utils 2afb4311ab10

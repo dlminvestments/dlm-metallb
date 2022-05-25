@@ -24,10 +24,10 @@ Main-renovate/k8s.io-klog-v2-2.x
 	github.com/mdlayher/raw v0.0.0-20191009151244-50f2db8cc065 // indirect
 	github.com/mikioh/ipaddr v0.0.0-20190404000644-d465c8ab6721
 	github.com/osrg/gobgp/v3 v3.2.0
-	github.com/prometheus/client_golang v1.12.1
-	github.com/prometheus/client_golang v1.12.1
+	github.com/prometheus/client_golang v1.12.2
+	github.com/prometheus/client_golang v1.12.2
 	github.com/osrg/gobgp/v3 v3.2.0
-	github.com/prometheus/client_golang v1.12.1
+	github.com/prometheus/client_golang v1.12.2
 	github.com/satori/go.uuid v1.2.0 // indirect
 	github.com/spf13/viper v1.7.0 // indirect
 	github.com/vishvananda/netlink v1.0.0 // indirect
@@ -36,45 +36,45 @@ Main-renovate/k8s.io-klog-v2-2.x
 	golang.org/x/sys d19ff857e887
 	gopkg.in/yaml.v2 v2.4.0
 renovate/k8s.io-apimachinery-0.x
-	k8s.io/api v0.23.6
-	k8s.io/apimachinery v0.23.6
+	k8s.io/api v0.24.0
+	k8s.io/apimachinery v0.24.0
 	k8s.io/client-go/v12 v12.0.0
 renovate/kubernetes-go
 renovate/k8s.io-klog-v2-2.x
 	k8s.io/klog/v2 v2.60.1
-	k8s.io/api v0.23.6
-	k8s.io/apimachinery v0.23.6
+	k8s.io/api v0.24.0
+	k8s.io/apimachinery v0.24.0
 =======
 	k8s.io/klog/v2 v2.60.1
-	k8s.io/api v0.23.6
-	k8s.io/apimachinery v0.23.6
+	k8s.io/api v0.24.0
+	k8s.io/apimachinery v0.24.0
 =======
 	k8s.io/klog/v2 v2.40.1
-	k8s.io/api v0.23.6
-	k8s.io/apimachinery v0.23.6
+	k8s.io/api v0.24.0
+	k8s.io/apimachinery v0.24.0
 =======
 	k8s.io/klog/v2 v2.40.1
-	k8s.io/api v0.23.6
-	k8s.io/apimachinery v0.23.6
+	k8s.io/api v0.24.0
+	k8s.io/apimachinery v0.24.0
 Main-renovate/k8s.io-klog-v2-2.x
 Main-renovate/k8s.io-klog-v2-2.x
 
-	k8s.io/api v0.23.6
-	k8s.io/apimachinery v0.23.6
+	k8s.io/api v0.24.0
+	k8s.io/apimachinery v0.24.0
 	k8s.io/client-go/v12 v12.0.0
 renovate/kubernetes-go
 renovate/k8s.io-klog-v2-2.x
 	k8s.io/klog/v2 v2.60.1
-	k8s.io/api v0.23.6
+	k8s.io/api v0.24.0
 =======
 	k8s.io/klog/v2 v2.60.1
-	k8s.io/api v0.23.6
+	k8s.io/api v0.24.0
 =======
 	k8s.io/klog/v2 v2.40.1
-	k8s.io/api v0.23.6
+	k8s.io/api v0.24.0
 =======
 	k8s.io/klog/v2 v2.40.1
-	k8s.io/api v0.23.6
+	k8s.io/api v0.24.0
 Main-renovate/k8s.io-klog-v2-2.x
 Main-renovate/k8s.io-klog-v2-2.x
  Main-renovate/k8s.io-klog-v2-2.x
