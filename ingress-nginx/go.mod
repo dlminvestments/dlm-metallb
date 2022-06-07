@@ -26,7 +26,7 @@ require (
 	github.com/prometheus/common v0.34.0
 	github.com/spf13/cobra v1.4.0
 	github.com/spf13/pflag v1.0.5
-	github.com/stretchr/testify v1.7.1
+	github.com/stretchr/testify v1.7.2
 	github.com/tallclair/mdtoc v1.1.0
 	github.com/zakjan/cert-chain-resolver 87e10242a981
 	golang.org/x/crypto 83a5a9bb288b
