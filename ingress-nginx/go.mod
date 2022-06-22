@@ -23,8 +23,13 @@ require (
 	github.com/pkg/errors v0.9.1
 	github.com/prometheus/client_golang v1.12.2
 	github.com/prometheus/client_model v0.2.0
+renovate/github.com-spf13-cobra-1.x
+	github.com/prometheus/common v0.34.0
+	github.com/spf13/cobra v1.5.0
+=======
 	github.com/prometheus/common v0.35.0
 	github.com/spf13/cobra v1.4.0
+Main-renovate/k8s.io-klog-v2-2.x
 	github.com/spf13/pflag v1.0.5
 	github.com/stretchr/testify v1.7.4
 	github.com/tallclair/mdtoc v1.1.0
