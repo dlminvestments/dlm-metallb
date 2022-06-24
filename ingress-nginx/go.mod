@@ -31,7 +31,7 @@ renovate/github.com-spf13-cobra-1.x
 	github.com/spf13/cobra v1.4.0
 Main-renovate/k8s.io-klog-v2-2.x
 	github.com/spf13/pflag v1.0.5
-	github.com/stretchr/testify v1.7.4
+	github.com/stretchr/testify v1.7.5
 	github.com/tallclair/mdtoc v1.1.0
 	github.com/zakjan/cert-chain-resolver 87e10242a981
 	golang.org/x/crypto 83a5a9bb288b
