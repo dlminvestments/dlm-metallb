@@ -39,35 +39,35 @@ Main-renovate/k8s.io-klog-v2-2.x
 	google.golang.org/grpc v1.48.0
 	gopkg.in/go-playground/assert.v1 v1.2.1 // indirect
 	gopkg.in/go-playground/pool.v3 v3.1.1
-	k8s.io/api v0.24.2
+	k8s.io/api v0.24.3
 renovate/k8s.io-apimachinery-0.x
-	k8s.io/apiextensions-apiserver v0.24.2
-	k8s.io/apimachinery v0.24.2
+	k8s.io/apiextensions-apiserver v0.24.3
+	k8s.io/apimachinery v0.24.3
 renovate/k8s.io-apiserver-0.x
-	k8s.io/apiserver v0.24.2
-	k8s.io/cli-runtime v0.24.2
+	k8s.io/apiserver v0.24.3
+	k8s.io/cli-runtime v0.24.3
 
-	k8s.io/apiextensions-apiserver v0.24.2
-	k8s.io/apimachinery v0.24.2
-	k8s.io/apiserver v0.24.2
-	k8s.io/cli-runtime v0.24.2
+	k8s.io/apiextensions-apiserver v0.24.3
+	k8s.io/apimachinery v0.24.3
+	k8s.io/apiserver v0.24.3
+	k8s.io/cli-runtime v0.24.3
 =======
-	k8s.io/apiserver v0.24.2
-	k8s.io/cli-runtime v0.24.2
+	k8s.io/apiserver v0.24.3
+	k8s.io/cli-runtime v0.24.3
 
-	k8s.io/apiextensions-apiserver v0.24.2
-	k8s.io/apimachinery v0.24.2
-	k8s.io/apiserver v0.24.2
-	k8s.io/cli-runtime v0.24.2
+	k8s.io/apiextensions-apiserver v0.24.3
+	k8s.io/apimachinery v0.24.3
+	k8s.io/apiserver v0.24.3
+	k8s.io/cli-runtime v0.24.3
 Main-renovate/k8s.io-klog-v2-2.x
  Main-renovate/k8s.io-klog-v2-2.x
 	k8s.io/client-go/v12 v12.0.0
 renovate/k8s.io-component-base-0.x
-	k8s.io/code-generator v0.24.2
-	k8s.io/component-base v0.24.2
+	k8s.io/code-generator v0.24.3
+	k8s.io/component-base v0.24.3
 =======
-	k8s.io/code-generator v0.24.2
-	k8s.io/component-base v0.24.2
+	k8s.io/code-generator v0.24.3
+	k8s.io/component-base v0.24.3
 Main-renovate/k8s.io-klog-v2-2.x
 	k8s.io/klog/v2 v2.60.1
 	k8s.io/utils 2afb4311ab10
