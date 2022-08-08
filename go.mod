@@ -13,21 +13,29 @@ require (
 	github.com/golang/protobuf v1.5.2
 renovate/github.com-google-go-cmp-0.x
 	github.com/google/go-cmp v0.5.8
-	github.com/hashicorp/memberlist v0.3.2
+	github.com/hashicorp/memberlist v0.4.0
 =======
 	github.com/google/go-cmp v0.5.8
-	github.com/hashicorp/memberlist v0.3.2
+	github.com/hashicorp/memberlist v0.4.0
 Main-renovate/k8s.io-klog-v2-2.x
 	github.com/mdlayher/arp c37aaafac7f9
 	github.com/mdlayher/ethernet 529eae5b6118
 	github.com/mdlayher/ndp 5d20bbb4b9ae
 	github.com/mdlayher/raw v0.0.0-20191009151244-50f2db8cc065 // indirect
 	github.com/mikioh/ipaddr v0.0.0-20190404000644-d465c8ab6721
+renovate/github.com-prometheus-client_golang-1.x
 	github.com/osrg/gobgp/v3 v3.4.0
 	github.com/prometheus/client_golang v1.13.0
 	github.com/prometheus/client_golang v1.13.0
 	github.com/osrg/gobgp/v3 v3.4.0
 	github.com/prometheus/client_golang v1.13.0
+=======
+	github.com/osrg/gobgp/v3 v3.5.0
+	github.com/prometheus/client_golang v1.12.2
+	github.com/prometheus/client_golang v1.12.2
+	github.com/osrg/gobgp/v3 v3.5.0
+	github.com/prometheus/client_golang v1.12.2
+Main-renovate/k8s.io-klog-v2-2.x
 	github.com/satori/go.uuid v1.2.0 // indirect
 	github.com/spf13/viper v1.7.0 // indirect
 	github.com/vishvananda/netlink v1.0.0 // indirect
