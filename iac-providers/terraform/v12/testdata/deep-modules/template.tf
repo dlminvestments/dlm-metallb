@@ -6,7 +6,7 @@ provider "aws" {
 renovate/aws-4.x
   version = "4.3.0"
 =======
-  version = "4.34.0"
+  version = "4.36.1"
 Main-renovate/k8s.io-klog-v2-2.x
   region  = "us-east-1"
 }
