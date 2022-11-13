@@ -25,16 +25,16 @@ Main-renovate/k8s.io-klog-v2-2.x
 	github.com/mikioh/ipaddr v0.0.0-20190404000644-d465c8ab6721
 renovate/github.com-prometheus-client_golang-1.x
 	github.com/osrg/gobgp/v3 v3.8.0
-	github.com/prometheus/client_golang v1.13.0
-	github.com/prometheus/client_golang v1.13.0
+	github.com/prometheus/client_golang v1.14.0
+	github.com/prometheus/client_golang v1.14.0
 	github.com/osrg/gobgp/v3 v3.8.0
-	github.com/prometheus/client_golang v1.13.0
+	github.com/prometheus/client_golang v1.14.0
 =======
 	github.com/osrg/gobgp/v3 v3.8.0
-	github.com/prometheus/client_golang v1.12.2
-	github.com/prometheus/client_golang v1.12.2
+	github.com/prometheus/client_golang v1.14.0
+	github.com/prometheus/client_golang v1.14.0
 	github.com/osrg/gobgp/v3 v3.8.0
-	github.com/prometheus/client_golang v1.12.2
+	github.com/prometheus/client_golang v1.14.0
 Main-renovate/k8s.io-klog-v2-2.x
 	github.com/satori/go.uuid v1.2.0 // indirect
 	github.com/spf13/viper v1.7.0 // indirect
