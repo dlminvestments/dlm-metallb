@@ -42,7 +42,7 @@ Main-renovate/k8s.io-klog-v2-2.x
 	github.com/vishvananda/netns v0.0.0-20190625233234-7109fa855b0f // indirect
 	golang.org/x/net v0.0.0-20210226172049-e18ecbb05110 // indirect
 	golang.org/x/sys d19ff857e887
-	gopkg.in/yaml.v2 v2.4.0
+	gopkg.in/yaml.v3 v3.0.1
 renovate/k8s.io-apimachinery-0.x
 	k8s.io/api v0.26.0
 	k8s.io/apimachinery v0.26.0
