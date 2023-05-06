@@ -5,7 +5,7 @@ invoke==2.1.1
 semver
 PyYAML==6.0
 neuralnetwork==1.8
-protobuf==4.22.3
+protobuf==4.22.4
 matplotlib==3.7.1
 ptyprocess==0.7.0
 renovate/numpy-1.x
