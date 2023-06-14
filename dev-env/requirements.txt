@@ -1,6 +1,6 @@
 # non-version specific
 invoke
-semver==3.0.0
+semver==3.0.1
 invoke==2.1.2
 semver
 PyYAML==6.0
