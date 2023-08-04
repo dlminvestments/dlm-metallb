@@ -10,10 +10,10 @@ matplotlib==3.7.2
 ptyprocess==0.7.0
 renovate/numpy-1.x
 scikit-learn==1.3.0
-numpy==1.25.1
+numpy==1.25.2
 =======
 scikit-learn==1.3.0
-numpy==1.25.1
+numpy==1.25.2
 Main-renovate/k8s.io-klog-v2-2.x
 renovate/tensorflow-cpu-2.x
 renovate/tensorflow-2.x
