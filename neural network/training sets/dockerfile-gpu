@@ -2,10 +2,10 @@ snyk-fix-fd9cf3ac66ec85c373bd6fbe0c96f245
 FROM tensorflow/tensorflow:latest-gpu
 =======
 snyk-fix-ec70dd212a8e05568da3cfb2776afa74
-FROM tensorflow/tensorflow:2.13.0-gpu
+FROM tensorflow/tensorflow:2.14.0-gpu
 =======
 snyk-fix-7bb4d32fa7a3fce4accbeab2cdbc3155
-FROM tensorflow/tensorflow:2.13.0-gpu
+FROM tensorflow/tensorflow:2.14.0-gpu
 =======
 
 master
