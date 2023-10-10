@@ -12,10 +12,10 @@ require (
 	github.com/go-kit/kit v0.13.0
 	github.com/golang/protobuf v1.5.3
 renovate/github.com-google-go-cmp-0.x
-	github.com/google/go-cmp v0.5.9
+	github.com/google/go-cmp v0.6.0
 	github.com/hashicorp/memberlist v0.5.0
 =======
-	github.com/google/go-cmp v0.5.9
+	github.com/google/go-cmp v0.6.0
 	github.com/hashicorp/memberlist v0.5.0
 Main-renovate/k8s.io-klog-v2-2.x
 	github.com/mdlayher/arp c37aaafac7f9
