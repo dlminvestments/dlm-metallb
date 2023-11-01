@@ -49,19 +49,19 @@ renovate/k8s.io-apimachinery-0.x
 	k8s.io/client-go/v12 v12.0.0
 renovate/kubernetes-go
 renovate/k8s.io-klog-v2-2.x
-	k8s.io/klog/v2 v2.100.1
+	k8s.io/klog/v2 v2.110.1
 	k8s.io/api v0.28.3
 	k8s.io/apimachinery v0.28.3
 =======
-	k8s.io/klog/v2 v2.100.1
+	k8s.io/klog/v2 v2.110.1
 	k8s.io/api v0.28.3
 	k8s.io/apimachinery v0.28.3
 =======
-	k8s.io/klog/v2 v2.100.1
+	k8s.io/klog/v2 v2.110.1
 	k8s.io/api v0.28.3
 	k8s.io/apimachinery v0.28.3
 =======
-	k8s.io/klog/v2 v2.100.1
+	k8s.io/klog/v2 v2.110.1
 	k8s.io/api v0.28.3
 	k8s.io/apimachinery v0.28.3
 Main-renovate/k8s.io-klog-v2-2.x
@@ -72,21 +72,21 @@ Main-renovate/k8s.io-klog-v2-2.x
 	k8s.io/client-go/v12 v12.0.0
 renovate/kubernetes-go
 renovate/k8s.io-klog-v2-2.x
-	k8s.io/klog/v2 v2.100.1
+	k8s.io/klog/v2 v2.110.1
 	k8s.io/api v0.28.3
 =======
-	k8s.io/klog/v2 v2.100.1
+	k8s.io/klog/v2 v2.110.1
 	k8s.io/api v0.28.3
 =======
-	k8s.io/klog/v2 v2.100.1
+	k8s.io/klog/v2 v2.110.1
 	k8s.io/api v0.28.3
 =======
-	k8s.io/klog/v2 v2.100.1
+	k8s.io/klog/v2 v2.110.1
 	k8s.io/api v0.28.3
 Main-renovate/k8s.io-klog-v2-2.x
 Main-renovate/k8s.io-klog-v2-2.x
  Main-renovate/k8s.io-klog-v2-2.x
 	k8s.io/client-go/v12 v12.0.0
-	k8s.io/klog/v2 v2.100.1
+	k8s.io/klog/v2 v2.110.1
 	sigs.k8s.io/kind v0.10.0 // indirect
 )
