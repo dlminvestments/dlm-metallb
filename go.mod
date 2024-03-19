@@ -13,10 +13,10 @@ require (
 	github.com/golang/protobuf v1.5.4
 renovate/github.com-google-go-cmp-0.x
 	github.com/google/go-cmp v0.6.0
-	github.com/hashicorp/memberlist v0.5.0
+	github.com/hashicorp/memberlist v0.5.1
 =======
 	github.com/google/go-cmp v0.6.0
-	github.com/hashicorp/memberlist v0.5.0
+	github.com/hashicorp/memberlist v0.5.1
 Main-renovate/k8s.io-klog-v2-2.x
 	github.com/mdlayher/arp c37aaafac7f9
 	github.com/mdlayher/ethernet 529eae5b6118
