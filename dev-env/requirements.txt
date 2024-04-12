@@ -9,10 +9,10 @@ protobuf==5.26.1
 matplotlib==3.8.3
 ptyprocess==0.7.0
 renovate/numpy-1.x
-scikit-learn==1.4.1.post1
+scikit-learn==1.4.2
 numpy==1.26.4
 =======
-scikit-learn==1.4.1.post1
+scikit-learn==1.4.2
 numpy==1.26.4
 Main-renovate/k8s.io-klog-v2-2.x
 renovate/tensorflow-cpu-2.x
