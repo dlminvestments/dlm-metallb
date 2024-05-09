@@ -19,7 +19,7 @@ require (
 	github.com/moul/pb bca18df4138c
 	github.com/ncabatoff/process-exporter v0.7.10
 	github.com/onsi/ginkgo v1.16.5
-	github.com/opencontainers/runc v1.1.3
+	github.com/opencontainers/runc v1.1.12
 	github.com/pkg/errors v0.9.1
 	github.com/prometheus/client_golang v1.13.0
 	github.com/prometheus/client_model v0.2.0
