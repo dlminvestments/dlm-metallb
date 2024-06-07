@@ -22,7 +22,7 @@ require (
 	github.com/opencontainers/runc v1.1.12
 	github.com/pkg/errors v0.9.1
 	github.com/prometheus/client_golang v1.19.1
-	github.com/prometheus/client_model v0.2.0
+	github.com/prometheus/client_model v0.6.1
 renovate/github.com-spf13-cobra-1.x
 	github.com/prometheus/common v0.53.0
 	github.com/spf13/cobra v1.8.0
