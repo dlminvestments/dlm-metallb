@@ -24,10 +24,10 @@ require (
 	github.com/prometheus/client_golang v1.19.1
 	github.com/prometheus/client_model v0.6.1
 renovate/github.com-spf13-cobra-1.x
-	github.com/prometheus/common v0.54.0
+	github.com/prometheus/common v0.55.0
 	github.com/spf13/cobra v1.8.1
 =======
-	github.com/prometheus/common v0.54.0
+	github.com/prometheus/common v0.55.0
 	github.com/spf13/cobra v1.8.1
 Main-renovate/k8s.io-klog-v2-2.x
 	github.com/spf13/pflag v1.0.5
