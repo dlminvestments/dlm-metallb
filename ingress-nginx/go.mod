@@ -17,7 +17,7 @@ require (
 	github.com/mitchellh/hashstructure/v2 v2.0.2
 	github.com/mitchellh/mapstructure v1.5.0
 	github.com/moul/pb bca18df4138c
-	github.com/ncabatoff/process-exporter v0.8.2
+	github.com/ncabatoff/process-exporter v0.8.3
 	github.com/onsi/ginkgo/v2 v2.19.0
 	github.com/opencontainers/runc v1.1.13
 	github.com/pkg/errors v0.9.1
