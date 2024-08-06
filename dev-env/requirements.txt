@@ -3,7 +3,7 @@ invoke
 semver==3.0.2
 invoke==2.2.0
 semver
-PyYAML==6.0.1
+PyYAML==6.0.2
 neuralnetwork==1.8
 protobuf==5.27.2
 matplotlib==3.9.1
