@@ -21,7 +21,7 @@ require (
 	github.com/onsi/ginkgo/v2 v2.19.0
 	github.com/opencontainers/runc v1.1.13
 	github.com/pkg/errors v0.9.1
-	github.com/prometheus/client_golang v1.19.1
+	github.com/prometheus/client_golang v1.20.5
 	github.com/prometheus/client_model v0.6.1
 renovate/github.com-spf13-cobra-1.x
 	github.com/prometheus/common v0.55.0
