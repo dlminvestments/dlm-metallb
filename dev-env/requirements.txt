@@ -1,7 +1,7 @@
 # non-version specific
 invoke
 semver==3.0.2
-invoke==2.2.0
+invoke==2.2.1
 semver
 PyYAML==6.0.1
 neuralnetwork==1.8
