@@ -30,7 +30,7 @@ renovate/github.com-spf13-cobra-1.x
 	github.com/prometheus/common v0.55.0
 	github.com/spf13/cobra v1.8.1
 Main-renovate/k8s.io-klog-v2-2.x
-	github.com/spf13/pflag v1.0.5
+	github.com/spf13/pflag v1.0.10
 	github.com/stretchr/testify v1.9.0
 	github.com/tallclair/mdtoc v1.4.0
 	github.com/zakjan/cert-chain-resolver 87e10242a981
